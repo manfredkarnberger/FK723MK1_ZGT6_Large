@@ -2,6 +2,53 @@
 FileName = FK723MK1_ZGT6_Large.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : FK723MK1_ZGT6_Large.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : FK723MK1_ZGT6_Large.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : FK723MK1_ZGT6_Large.GM1
 
@@ -10,29 +57,6 @@ Generating : Mechanical 1
 
 Used DCodes :
     D38
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FK723MK1_ZGT6_Large.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
 *************************************************************
 
 *************************************************************
@@ -64,8 +88,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : FK723MK1_ZGT6_Large.GBL
+Generating : Bottom Solder
+      File : FK723MK1_ZGT6_Large.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -73,41 +99,15 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : FK723MK1_ZGT6_Large.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D10
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
