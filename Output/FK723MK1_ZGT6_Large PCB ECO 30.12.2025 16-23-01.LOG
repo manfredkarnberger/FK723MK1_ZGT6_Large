@@ -1,0 +1,7 @@
+Added Component: Designator=X10(JST_XH 5polig, liegend)
+Added Pin To Net: NetName=GND Pin=X10-1
+Added Pin To Net: NetName=DAC1_OUT1 Pin=X10-2
+Added Pin To Net: NetName=GND Pin=X10-3
+Added Pin To Net: NetName=DAC1_OUT2 Pin=X10-4
+Added Pin To Net: NetName=GND Pin=X10-5
+Added Member To Class: ClassName=FK723MK1_ZGT6_Large Member=Component X10 JST_XH 5polig liegend

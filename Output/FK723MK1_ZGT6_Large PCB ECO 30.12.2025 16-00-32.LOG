@@ -1,0 +1,20 @@
+Added Component: Designator=X9(JST_XH 10polig, liegend)
+Added Pin To Net: NetName=PB0 Pin=X9-1
+Added Pin To Net: NetName=PB1 Pin=X9-2
+Added Pin To Net: NetName=PB2 Pin=X9-3
+Added Pin To Net: NetName=PB3 Pin=X9-4
+Added Pin To Net: NetName=PB4 Pin=X9-5
+Added Pin To Net: NetName=PB5 Pin=X9-6
+Added Pin To Net: NetName=PB6 Pin=X9-7
+Added Pin To Net: NetName=PB7 Pin=X9-8
+Added Pin To Net: NetName=+3V3 Pin=X9-9
+Added Pin To Net: NetName=GND Pin=X9-10
+Change Net Name : Old Net Name=PB0 New Net Name=GPIO_PB0
+Change Net Name : Old Net Name=PB1 New Net Name=GPIO_PB1
+Change Net Name : Old Net Name=PB2 New Net Name=GPIO_PB2
+Change Net Name : Old Net Name=PB3 New Net Name=GPIO_PB3
+Change Net Name : Old Net Name=PB4 New Net Name=GPIO_PB4
+Change Net Name : Old Net Name=PB5 New Net Name=GPIO_PB5
+Change Net Name : Old Net Name=PB6 New Net Name=GPIO_PB6
+Change Net Name : Old Net Name=PB7 New Net Name=GPIO_PB7
+Added Member To Class: ClassName=FK723MK1_ZGT6_Large Member=Component X9 JST_XH 10polig liegend

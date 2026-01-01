@@ -1,0 +1,18 @@
+Change Physical Footprint: Designator=C4 Old Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow New Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow
+Change Physical Footprint: Designator=C5 Old Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow New Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow
+Change Physical Footprint: Designator=C6 Old Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow New Footprint=WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow
+Change Physical Footprint: Designator=R1 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=R2 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=R3 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=R4 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=R5 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=R6 Old Footprint=WRIS-KSKE_0805 New Footprint=WRIS-KSKE_0805
+Change Physical Footprint: Designator=U1 Old Footprint=SO-8 New Footprint=SO-8
+Change Physical Footprint: Designator=U2 Old Footprint=SO-8 New Footprint=SO-8
+Change Physical Footprint: Designator=U3 Old Footprint=SO-8 New Footprint=SO-8
+Change Physical Footprint: Designator=X1 Old Footprint=JST_XH 3polig, liegend New Footprint=JST_XH 3polig, liegend
+Change Physical Footprint: Designator=X2 Old Footprint=Buchsenleiste 2x30polig New Footprint=Buchsenleiste 2x30polig
+Change Physical Footprint: Designator=X3 Old Footprint=Buchsenleiste 2x30polig New Footprint=Buchsenleiste 2x30polig
+Change Physical Footprint: Designator=X4 Old Footprint=JST_XH 3polig, liegend New Footprint=JST_XH 3polig, liegend
+Change Physical Footprint: Designator=X5 Old Footprint=JST_XH 3polig, liegend New Footprint=JST_XH 3polig, liegend
+Change Physical Footprint: Designator=X6 Old Footprint=JST_XH 4polig, liegend New Footprint=JST_XH 4polig, liegend

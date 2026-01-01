@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [FK723MK1_ZGT6_Large.PcbDoc]
+   Generated File[FK723MK1_ZGT6_Large.GTS]
+   Generated File[FK723MK1_ZGT6_Large.GTL]
+   Generated File[FK723MK1_ZGT6_Large.GBL]
+   Generated File[FK723MK1_ZGT6_Large.GBS]
+   Generated File[FK723MK1_ZGT6_Large.GM1]
+   Generated File[FK723MK1_ZGT6_Large.GM]
+   Generated File[FK723MK1_ZGT6_Large.EXTREP]
+   Generated File[FK723MK1_ZGT6_Large.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 15:57:20 On 01.01.2026

@@ -1,0 +1,17 @@
+Added Component: Designator=X7(JST_XH 4polig, liegend)
+Added Pin To Net: NetName=PF0 Pin=X7-1
+Added Pin To Net: NetName=PF1 Pin=X7-2
+Added Pin To Net: NetName=+3V3 Pin=X7-3
+Added Pin To Net: NetName=GND Pin=X7-4
+Change Net Name : Old Net Name=PA4 New Net Name=DAC1_OUT1
+Change Net Name : Old Net Name=PA5 New Net Name=DAC1_OUT2
+Change Net Name : Old Net Name=PB8 New Net Name=I2C1_SCL
+Change Net Name : Old Net Name=PB9 New Net Name=I2C1_SDA
+Change Net Name : Old Net Name=PF0 New Net Name=I2C2_SDA
+Change Net Name : Old Net Name=PF1 New Net Name=I2C2_SCL
+Change Net Name : Old Net Name=PF6 New Net Name=~CS
+Change Net Name : Old Net Name=PF7 New Net Name=SPI5_SCK
+Change Net Name : Old Net Name=PF8 New Net Name=SPI5_MISO
+Change Net Name : Old Net Name=PF9 New Net Name=SPI5_MOSI
+Change Class Name : Old Net Name=FK723MK1_ZGT6 New Net Name=FK723MK1_ZGT6_Large
+Added Member To Class: ClassName=FK723MK1_ZGT6_Large Member=Component X7 JST_XH 4polig liegend
